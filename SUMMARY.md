@@ -1,0 +1,54 @@
+## 一、首页
+- [活动简介](/1-index/0-activity-bref.md)
+
+- [如何使用本网站](/1-index/1-how-use.md)
+
+## 二、资源
+
+   ### 一、活动说明
+- [**共读《好好学习》活动说明**](/2-resource/0000-gong-du-huo-dong-shuo-ming.md)
+
+### 二、导师领读
+
+### 检视阅读
+
+- [**检视阅读**](/2-resource/0001-02-03-jian-shi-yue-du.md)
+- [**《一个概念秒杀所有学习方法》——构建心理表征学习法**](http://blog.hiddenwangcc.com/archives/3015)
+
+
+### 领读1 序言与引言
+- [**序言与引言**](/2-resource/0002-02-07-xu-yan-he-yin-yan.md)
+
+### 领读2   第一章：知识管理与认知优势
+- [**领读2 知识管理与认知优势**](/2-resource/0003-02-09-zhi-shi-guan-li-he-ren-zhi-you-shi.md)
+
+### 领读3~4 第二章：掌握临界知识的底层思维与方法 
+- [**领读3 掌握临界知识的底层思维与方法 (上)**](/2-resource/0004-02-11-zhang-wo-lin-jie-zhi-shi-1.md)
+
+- [**领读4 掌握临界知识的底层思维与方法 (下)**](/2-resource/0005-02-15-zhang-wo-lin-jie-zhi-shi-2.md)
+
+###领读4~5 第三章：发现和应用自己的临界知识
+- [**领读5 发现和应用自己的临界知识(上)**](/2-resource/0006-02-20-fa-xian-he-ying-yong-lin-jie-zhi-shi-1.md)
+
+- [**领读6 发现和应用自己的临界知识(下)**](/2-resource/0007-02-22-fa-xian-he-ying-yong-lin-jie-zhi-shi-2.md)
+
+### [三、共读数据展示](3-gong-du-shu-ju-zhang-shi.md)
+
+
+### 四、学员优秀作业收录
+- [**微博话题讨论**](/5-yan-shen-chan-pin/weibo-2.21end.md)
+- [**群聊精华**](/5-yan-shen-chan-pin/wechat-2.22end.md)
+
+
+###五、衍生周边产品
+- [《好好学习》章节脑图](/5-yan-shen-chan-pin/0-zhang-jie-nao-tu.md)
+
+- [《好好学习》定制书签](/5-yan-shen-chan-pin/1-ding-zhi-shu-qian.md)
+
+### [贡献](6-gongxian.md) 
+
+
+### [版权](7-copyright.md)
+
+
+### [联系](8-contact.md)
